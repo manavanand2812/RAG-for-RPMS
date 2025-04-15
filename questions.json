@@ -1,0 +1,22 @@
+{
+    "Document 1": [
+        "What is an ECG record?",
+        "Can ECG monitoring be done remotely?"
+    ],
+    "Document 2": [
+        "What sensor is used in the ECG anomaly detection system?",
+        "Name two methods used to detect anomalies in the ECG data."
+    ],
+    "Document 3": [
+        "What columns are included in the ECG CSV data?",
+        "What are the important features to analyze heartbeat patterns?"
+    ],
+    "Document 4": [
+        "Which machine learning model is used in the project?",
+        "How are anomalies labeled for training the model?"
+    ],
+    "Document 5": [
+        "Where is the ECG signals visualized?",
+        "How does the dashboard help healthcare professionals?"
+    ]
+}

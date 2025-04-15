@@ -1,0 +1,23 @@
+{
+    "Document 1": [
+      "electrical activity of the heart.",
+      "Can be done remotely."
+    ],
+    "Document 2": [
+      "AD8232 sensor.",
+      "threshold analysis and R-R interval analysis."
+    ],
+    "Document 3": [
+      "Time, ECG, and Voltage.",
+      "R-R Interval."
+    ],
+    "Document 4": [
+      "RandomForestClassifier.",
+      "anomalies are manually labeled."
+    ],
+    "Document 5": [
+      "dashboard shows ECG graphs and detected anomalies.",
+      "allows remote access."
+    ]
+  }
+  
